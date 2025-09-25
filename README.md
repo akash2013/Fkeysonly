@@ -25,27 +25,6 @@
 
 All tabs are enabled by default, but you can toggle each individually.
 
-## Installation
-
-1. Clone or fork the repository:
-
-```bash
-git clone https://github.com/akash2013/Fkeysonly.git
-```
-
-2. Build the plugin using Maven:
-
-```bash
-mvn clean package
-```
-
-3. The resulting JAR will be in `target/Fkeysonly-1.0.0.jar`.  
-4. Place the JAR in your RuneLite plugins folder or push to Plugin Hub.
-
-## Requirements
-
-- RuneLite 1.11.x or later  
-- Java 17
 
 ## Plugin Hub Info
 
