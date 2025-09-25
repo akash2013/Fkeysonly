@@ -1,6 +1,6 @@
 # F Keys Only
 
-**Blocks left clicks on tabs in RuneLite, You can only use F-keys to open them.**
+**Blocks left-clicks on selected tabs while allowing F-keys to open them.**
 
 ## Features
 
