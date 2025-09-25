@@ -1,0 +1,9 @@
+{
+  "name": "F Keys Only",
+  "version": "1.0.0",
+  "description": "Blocks mouse clicks on main PvM tabs (Inventory, Prayer, Magic, Combat, Worn Equipment), requiring F-keys. Supports all layouts and can be restricted to combat.",
+  "tags": ["pvm", "fkeys", "tabs"],
+  "authors": ["akash2013"],
+  "mainClass": "com.akash2013.Fkeysonly.FkeysonlyPlugin",
+  "configClass": "com.akash2013.Fkeysonly.FkeysonlyConfig"
+}
