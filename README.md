@@ -1,10 +1,10 @@
 # F Keys Only
 
-**Blocks mouse clicks on main PvM tabs in RuneLite, requiring F-keys to open them.**
+**Blocks left clicks on tabs in RuneLite, You can only use F-keys to open them.**
 
 ## Features
 
-- Blocks left-click on the main PvM tabs:  
+- Blocks left-click on tabs:  
   - Inventory  
   - Prayer  
   - Magic  
@@ -12,7 +12,7 @@
   - Worn Equipment
 - Optional: only block tabs **while in combat** (attacking or being attacked by NPCs).  
 - Supports **all layouts**: Resizable-Modern, Resizable-Classic, Fixed-Classic.  
-- Clean and lightweight plugin, ideal for PvM training and minimizing misclicks.
+- Clean and lightweight plugin, 
 
 ## Configuration
 
@@ -51,8 +51,4 @@ mvn clean package
 
 - **Short description**: Blocks left-clicks on main PvM tabs (Inventory, Prayer, Magic, Combat, Worn Equipment), requiring F-keys. Optional: only in combat. Supports all layouts.
 - **Tags**: pvm, fkeys, tabs, combat, inventory, prayer, magic, equipment
-
-## License
-
-MIT License – free to use and modify.
 
