@@ -59,3 +59,7 @@ Requirements
 RuneLite 1.11.x or later
 
 Java 17
+
+License
+
+MIT License – free to use and modify.
