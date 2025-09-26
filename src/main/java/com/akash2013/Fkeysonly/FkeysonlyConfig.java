@@ -68,3 +68,4 @@ public interface FkeysonlyConfig extends Config {
         return true;
     }
 }
+
